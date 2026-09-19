@@ -770,6 +770,19 @@
       "logo": "https://i.imgur.com/oxaHaTq.png",
       "epg_id": "TOLOnews.af@SD",
       "is_24_7": true
+    },
+    {
+      "id": "in-republic-news",
+      "name": "TOLOnews",
+      "country": "India",
+      "country_code": "IN",
+      "category": "News",
+      "language": "Hindi",
+      "stream_type": "hls",
+      "stream_url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png",
+      "epg_id": "Republic.in@SD",
+      "is_24_7": true
     }
   ]
 }
