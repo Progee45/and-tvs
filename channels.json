@@ -778,8 +778,8 @@
       "country_code": "IN",
       "category": "News",
       "language": "Hindi",
-      "stream_type": "hls",
-      "stream_url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8",
+      "stream_type": "youtube",
+      "stream_url": "https://www.youtube.com/@RepublicBharat/live",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png",
       "epg_id": "Republic.in@SD",
       "is_24_7": true
